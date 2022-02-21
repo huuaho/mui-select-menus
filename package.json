@@ -1,0 +1,25 @@
+{
+  "title": "ColumnTypesGrid Material Demo",
+  "name": "columntypesgrid-material-demo-forked",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.5.1/docs/src/ColumnTypesGrid.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@mui/x-data-grid-generator": "latest",
+    "@mui/x-data-grid": "latest",
+    "@mui/material": "latest",
+    "@mui/icons-material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  },
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
